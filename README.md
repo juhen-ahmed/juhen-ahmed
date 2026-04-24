@@ -1,4 +1,4 @@
-<h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" /> Hello There! It's Juhen <img src="https://cdn3.emoji.gg/emojis/480418-pika-and-puff.gif" width="50"></h1>
+<h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" /> Hello There! am Juhen <img src="https://cdn3.emoji.gg/emojis/480418-pika-and-puff.gif" width="50"></h1>
 
 <div align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1200&pause=800&color=0061FF&left=true&vCenter=true&width=500&height=30&lines=Juhen%20The%20Junior%20(Dev)%20.%3BWriting%20code%20%E2%80%A2%20Reading%20errors%20%F0%9F%90%9B"/>
